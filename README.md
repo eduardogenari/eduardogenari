@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I am a junior developer and a senior designer.
+I am a junior developer and a senior designer.
 
 Having grown up as an architect, I have always been at the intersection of design, business and technology. Now I am focused on building modern digital products.
 
