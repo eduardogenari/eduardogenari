@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am a junior developer and a senior designer.
+I am Edu, Full-Stack Developer and Product Designer at IThinkUPC, the consulting company and advanced digital services provider of the UPC - Polytechnic University of Catalonia.
 
-Having grown up as an architect, I have always been at the intersection of design, business and technology. Now I am focused on building modern digital products.
-
-I am currently working on a huge IBM project, migrating applications from the client’s DC to AWS.
-
-And I am also finishing my React bootcamp and interested in Vue.js, Node.js, MongoDB, Figma, Sketch, Wordpress, Shopify, Blockchain, Web3 and NFT.
+Having grown up as an architect, I have always been at the intersection of design, business and technology. Now I am focused on building modern digital products, currently working on a huge project for a public spanish company using Java, Angular and MySQL.
 
 <!--
 **eduardogenari/eduardogenari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
